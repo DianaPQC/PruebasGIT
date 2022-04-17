@@ -1,0 +1,10 @@
+diff a/ejemplo.html b/ejemplo.html	(rejected hunks)
+@@ -3,7 +3,6 @@
+ 		<title>Mi página de ejemplo</title>
+ 	</head>
+ 	<body>
+-	            Aquí va el contenido, prueba master de PR dos
+ 	            Aquí va el contenido, prueba master de PR
+ 	</body>
+ </html>
+\ No newline at end of file
