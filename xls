@@ -1,0 +1,71 @@
+[33mcommit 968154cefa1b9adacf243018db4bd04be91f70f1[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m)[m
+Author: DOMAIN\diana.quiroga <dquiroga@intergrupo.com>
+Date:   Fri Apr 22 09:05:23 2022 -0500
+
+    Pruebas
+
+[33mcommit 7beef8e4b140777dc18634f9b3cb06b46bb7e2f7[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mfeature_hu23[m[33m)[m
+Merge: a8de390 b76b406
+Author: DianaPQC <52613456+DianaPQC@users.noreply.github.com>
+Date:   Wed Mar 30 10:51:56 2022 -0500
+
+    Merge pull request #2 from DianaPQC/feature_hu23
+    
+    Ajustes
+
+[33mcommit b76b4061039eda6f799a76cc32fbac7f59506da1[m[33m ([m[1;31morigin/feature_hu23[m[33m)[m
+Author: Quiroga <dquiroga@intergrupo.com>
+Date:   Wed Mar 30 10:45:24 2022 -0500
+
+    Ajustes
+
+[33mcommit a8de3905b864fe2e036ab4b7caebd4842dac6fa2[m
+Merge: 0744b08 872d920
+Author: DianaPQC <52613456+DianaPQC@users.noreply.github.com>
+Date:   Wed Mar 30 09:45:46 2022 -0500
+
+    Merge pull request #1 from DianaPQC/featureHU_1
+    
+    subir cambios de mi rama hotfix
+
+[33mcommit 872d920853f50c699d89c8dff98ddd53c3910480[m[33m ([m[1;31morigin/featureHU_1[m[33m, [m[1;32mfeatureHU_1[m[33m)[m
+Author: Quiroga <dquiroga@intergrupo.com>
+Date:   Wed Mar 30 09:29:47 2022 -0500
+
+    subir cambios de mi rama hotfix
+
+[33mcommit 0744b08b68c899cbd42f89911ff501e96473dac4[m
+Author: Quiroga <dquiroga@intergrupo.com>
+Date:   Tue Mar 29 21:45:26 2022 -0500
+
+    Ajustes develop
+
+[33mcommit 489336776e521d9090b7cc5f85b11a69dcc00774[m
+Author: Quiroga <dquiroga@intergrupo.com>
+Date:   Tue Mar 29 21:20:24 2022 -0500
+
+    Ajustes
+
+[33mcommit 1d9db23305fff4428c6ccd4911797adab56f6aea[m[33m ([m[1;33mtag: V0.1[m[33m)[m
+Author: Quiroga <dquiroga@intergrupo.com>
+Date:   Tue Mar 29 21:09:38 2022 -0500
+
+    Ajustes
+
+[33mcommit 153cf2fbfa1c6ed194dfc87fc1f8cf4d1d057741[m
+Author: Quiroga <dquiroga@intergrupo.com>
+Date:   Tue Mar 29 21:08:50 2022 -0500
+
+    Ajustes
+
+[33mcommit d3b6957a37a5637675f49cdec8e786631d3bc730[m
+Author: Quiroga <dquiroga@intergrupo.com>
+Date:   Tue Mar 29 09:38:07 2022 -0500
+
+    Es es el primer commit de este archi
+
+[33mcommit 7d3ac2c5fc7eca34d0f266c495d8555b9a4e4c9d[m
+Author: Quiroga <dquiroga@intergrupo.com>
+Date:   Tue Mar 29 09:34:36 2022 -0500
+
+    Es es el primer commit de este archi
